@@ -1,0 +1,14 @@
+{
+    "name": "nitesh/php_with_mongodb",
+    "description": "core php with mongodb crud operations",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Nitesh Pawar",
+            "email": "niteshpawar019@gmail.com"
+        }
+    ],
+    "require": {
+        "mongodb/mongodb": "^1.20"
+    }
+}
