@@ -1,5 +1,5 @@
 <?php
-
+  
 require 'vendor/autoload.php'; // Include Composer's autoloader
 
 $client = new MongoDB\Client("mongodb://localhost:27017"); // Connect to MongoDB server
